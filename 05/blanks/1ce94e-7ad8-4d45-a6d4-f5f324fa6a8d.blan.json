@@ -1,0 +1,110 @@
+{
+    "Ar40": {
+        "error": 0.03589025638316698,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-A-1605"
+            }
+        ],
+        "value": 2.8687063470656504
+    },
+    "Ar40AX": {
+        "error": 0.035723534074940465,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-A-1605"
+            }
+        ],
+        "value": 2.787070932708379
+    },
+    "Ar40H1": {
+        "error": 0.03718003775021951,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-A-1605"
+            }
+        ],
+        "value": 2.721464728340671
+    },
+    "Ar40H2": {
+        "error": 0.035819689306400934,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-A-1605"
+            }
+        ],
+        "value": 2.659367685385034
+    },
+    "Ar40L1": {
+        "error": 0.0380608887787466,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-A-1605"
+            }
+        ],
+        "value": 2.79278150169199
+    },
+    "Ar41": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-A-1605"
+            }
+        ],
+        "value": -0.0213834068267271
+    },
+    "Iso42.9624": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-A-1605"
+            }
+        ],
+        "value": 0.0804625478999194
+    },
+    "Iso43.9624": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-A-1605"
+            }
+        ],
+        "value": 0.11885445672699052
+    },
+    "PM42": {
+        "error": 0.0,
+        "error_type": "",
+        "fit": "previous",
+        "references": [
+            {
+                "exclude": false,
+                "record_id": "ba-01-A-1605"
+            }
+        ],
+        "value": 0.008595513987083636
+    }
+}
